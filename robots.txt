@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kotonoha-eizou.github.io/talk-first-japanese/sitemap.xml
