@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kotonoha-eizou.github.io/talk-first-japanese/sitemap.xml
+Sitemap: https://japanesephrases.pages.dev/sitemap.xml
