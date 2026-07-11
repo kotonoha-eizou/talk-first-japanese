@@ -34,6 +34,11 @@ nav a { margin-left: 24px; text-decoration: none; color: #1a1a1a; font-weight: 6
 .toc { max-width: 780px; margin: 0 auto; padding: 0 24px 20px; }
 .toc a { display: inline-block; background: #fff; border: 1px solid #eee; border-radius: 20px; padding: 8px 16px; margin: 4px 6px 4px 0; text-decoration: none; color: #1a1a1a; font-weight: 600; font-size: 13px; }
 footer { text-align: center; padding: 40px 24px; color: #888; font-size: 13px; }
+    @media (max-width: 600px) {
+      header { flex-wrap: wrap; row-gap: 12px; }
+      nav { width: 100%; }
+      nav a { margin-left: 0; margin-right: 20px; margin-bottom: 8px; display: inline-block; }
+    }
 </style>
 </head>
 <body>
